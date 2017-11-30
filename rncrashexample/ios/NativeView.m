@@ -21,7 +21,7 @@
     i++;
   }
   // make the app crash when in release mode.
-  // it will not crash  in debug mode becuase `simpleArray` has 2 elements in it
+  // it will not crash  in debug mode becuase `simpleArray` has 3 elements in it
   // in release mode it's an empty array. This is EXACTLY the point of raising the bug.
   NSString *crashMe = simpleArray[1];
   NSLog(@"%@", crashMe);
