@@ -3,7 +3,7 @@
 //  rncrashexample
 //
 //  Created by Tim Sawtell on 30/11/17.
-//  Copyright © 2017 Facebook. All rights reserved.
+//  Copyright © 2017 Sportsbet. All rights reserved.
 //
 @import UIKit;
 @import Foundation;
